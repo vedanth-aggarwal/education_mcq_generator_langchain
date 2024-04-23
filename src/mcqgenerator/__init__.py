@@ -1,0 +1,1 @@
+# treat mcqgenerator as package
