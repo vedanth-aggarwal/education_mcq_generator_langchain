@@ -1,9 +1,9 @@
-Project Description:
+## Project Description:
 
-**Purpose:
-- Enhance education by aiding teachers and professors**
+**Purpose:**
+- Enhance education by aiding teachers and professors*
   
-User Interface : Built using streamlit 
+**User Interface :** Built using streamlit 
 
 Jupyter Notebook & Modular Programming :
 - This was a testing ground to try out the code and run various experiments
